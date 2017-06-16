@@ -3,7 +3,7 @@
 @font-face {
     font-family: 'nucash-md-';
     src: url('../fonts/nucash-md-.eot?6baapr');
-    src: url('../fonts/nucash-md-.eot?6baapr#iefix') format('embedded-opentype'), url('../assets/icons/fonts/nucash-md-.ttf?6baapr') format('truetype'), url('../fonts/nucash-md-.woff?6baapr') format('woff'), url('../fonts/nucash-md-.svg?6baapr#nucash-md-') format('svg');
+    src: url('../fonts/nucash-md-.eot?6baapr#iefix') format('embedded-opentype'), url('../fonts/nucash-md-.ttf?6baapr') format('truetype'), url('../fonts/nucash-md-.woff?6baapr') format('woff'), url('../fonts/nucash-md-.svg?6baapr#nucash-md-') format('svg');
     font-weight: normal;
     font-style: normal;
 }
