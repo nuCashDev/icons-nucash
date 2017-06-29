@@ -1,5 +1,4 @@
 @charset "UTF-8";
-
 @font-face {
     font-family: 'nucash-md-';
     src: url('../fonts/nucash-md-.eot?6baapr');
@@ -1749,6 +1748,10 @@
 
 .ion-ios-medkit-outline:before {
     content: "\eab1";
+}
+
+.ion-ios-menu:before {
+    content: "\e952";
 }
 
 .ion-ios-mic:before {
