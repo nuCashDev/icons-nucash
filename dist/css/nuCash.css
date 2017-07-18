@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'nuCash-Ionic';
+    font-family: 'nucash-md-';
     src: url('fonts/nucash-md-.eot?1xhctz');
     src: url('fonts/nucash-md-.eot?1xhctz#iefix') format('embedded-opentype'), url('fonts/nucash-md-.ttf?1xhctz') format('truetype'), url('fonts/nucash-md-.woff?1xhctz') format('woff'), url('fonts/nucash-md-.svg?1xhctz#nuCash-Ionic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
-[class^="icon-"],
-[class*=" icon-"] {
+[class^="ion-"],
+[class*=" ion-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'nucash-md-' !important;
     speak: none;
