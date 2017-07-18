@@ -1,6 +1,6 @@
 {
     "name": "icons-nucash",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Icones nuCash",
     "main": "index.js",
     "scripts": {

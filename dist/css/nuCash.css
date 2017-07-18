@@ -757,7 +757,7 @@
     content: "\e9b8";
 }
 
-.ion-md-cartões:before {
+.ion-md-cartoes:before {
     content: "\e9b9";
 }
 
@@ -767,7 +767,6 @@
 
 .ion-md-casa:before {
     content: "\e9bb";
-    color: #595a5c;
 }
 
 .ion-md-cash:before {
@@ -856,7 +855,6 @@
 
 .ion-md-clube-de-compras:before {
     content: "\e9d1";
-    color: #59595b;
 }
 
 .ion-md-code:before {
@@ -877,12 +875,10 @@
 
 .ion-md-comer-e-beber:before {
     content: "\e9d6";
-    color: #595a5c;
 }
 
 .ion-md-compartilhar:before {
     content: "\e9d7";
-    color: #59595b;
 }
 
 .ion-md-compass:before {
@@ -903,7 +899,6 @@
 
 .ion-md-configuracoes:before {
     content: "\e9dc";
-    color: #59595b;
 }
 
 .ion-md-connection-bars:before {
@@ -912,7 +907,6 @@
 
 .ion-md-construcao:before {
     content: "\e9de";
-    color: #595a5c;
 }
 
 .ion-md-contrast:before {
@@ -1013,12 +1007,10 @@
 
 .ion-md-esporte:before {
     content: "\e9f7";
-    color: #595a5c;
 }
 
 .ion-md-estetica:before {
     content: "\e9f8";
-    color: #595a5c;
 }
 
 .ion-md-extrato:before {
@@ -2311,12 +2303,10 @@
 
 .ion-md-lista:before {
     content: "\eb39";
-    color: #595a5c;
 }
 
 .ion-md-lista_preenchido:before {
     content: "\eb3a";
-    color: #595a5c;
 }
 
 .ion-md-load-a:before {
@@ -2469,12 +2459,10 @@
 
 .ion-md-notificacoes:before {
     content: "\eb60";
-    color: #595a5c;
 }
 
 .ion-md-notificacoes-preenchido:before {
     content: "\eb61";
-    color: #595a5c;
 }
 
 .ion-md-nuclear:before {
@@ -2691,7 +2679,6 @@
 
 .ion-md-saude:before {
     content: "\eb97";
-    color: #595a5c;
 }
 
 .ion-md-scissors:before {
@@ -2732,7 +2719,6 @@
 
 .ion-md-sobre:before {
     content: "\eba1";
-    color: #595a5c;
 }
 
 .ion-md-social-android:before {
@@ -3205,7 +3191,6 @@
 
 .ion-md-vestuario:before {
     content: "\ec17";
-    color: #595a5c;
 }
 
 .ion-md-videocamera:before {
