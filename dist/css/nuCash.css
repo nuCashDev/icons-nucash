@@ -673,6 +673,10 @@
     content: "\e9a2";
 }
 
+.ion-md-backspace-outline:before {
+    content: "\e9a3";
+}
+
 .ion-md-bag:before {
     content: "\e9a4";
 }
