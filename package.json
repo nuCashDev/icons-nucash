@@ -1,20 +1,20 @@
 {
-  "name": "icons-nucash",
-  "version": "1.0.1",
-  "description": "Icones nuCash",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nuCashDev/icons-nucash.git"
-  },
-  "keywords": [],
-  "author": "Eduardo Vieira - nuCash",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nuCashDev/icons-nucash/issues"
-  },
-  "homepage": "https://github.com/nuCashDev/icons-nucash#readme"
+    "name": "icons-nucash",
+    "version": "1.0.2",
+    "description": "Icones nuCash",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nuCashDev/icons-nucash.git"
+    },
+    "keywords": [],
+    "author": "Eduardo Vieira - nuCash",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nuCashDev/icons-nucash/issues"
+    },
+    "homepage": "https://github.com/nuCashDev/icons-nucash#readme"
 }
