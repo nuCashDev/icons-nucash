@@ -1173,6 +1173,10 @@
     content: "\ea1f";
 }
 
+.ion-ios-menu:before {
+    content: "\e951";
+}
+
 .ion-ios-backspace:before {
     content: "\e9a2";
 }
